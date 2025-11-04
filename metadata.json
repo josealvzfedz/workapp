@@ -1,0 +1,5 @@
+{
+  "name": " Warmup Routine Builder v2",
+  "description": "An interactive web application to create, manage, and execute personalized warmup routines with timed or repetition-based exercises, complete with GIF illustrations.",
+  "requestFramePermissions": []
+}
